@@ -1,0 +1,24 @@
+{
+	"Name":"Pagina de Inicio",
+	"Description":"Modulo de Pagina de Inicio",
+	"Version":"3.0",
+	"Author":"Josue Mazco Puma",
+	"date":"10-sep-2016",
+	"UserMenu":"true",
+	"UserPanel":"true",
+	"Menu":
+	[
+		{
+			"Name":"Inicio",
+			"Icon":"fa fa-home",
+			"URL":"",
+			"Attribute":
+			{
+				"class":""
+			}
+		}
+	],
+	"Permiso":
+	{
+	}
+}

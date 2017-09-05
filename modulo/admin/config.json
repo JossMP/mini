@@ -1,0 +1,31 @@
+{
+	"Name":"Admin",
+	"Description":"Modulo de administracion",
+	"Version":"1.0",
+	"Author":"Josue Mazco Puma",
+	"date":"10-sep-2016",
+	"UserMenu":"true",
+	"UserPanel":"true",
+	"Menu":
+	[
+		{
+			"Name":"Administracion",
+			"Icon":"fa fa-user",
+			"URL":"",
+			"Attribute":
+			{
+				"class":""
+			}
+		}
+	],
+	"Permiso":
+	{
+		"add":"Añadir nuevo usuario",
+		"edit":"Editar usuario",
+		"level":"Asigna Permisos",
+		"remove":"Borrar usuario",
+		"view":"Visualizar",
+		"search":"Buscar",
+		"filter":"Filtrar"
+	}
+}

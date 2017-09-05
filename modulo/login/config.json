@@ -1,0 +1,12 @@
+{
+	"Name":"Modulo 404",
+	"Description":"Pagina de Error",
+	"Version":"1.0",
+	"Author":"Josue Mazco Puma",
+	"date":"27-Abril-2015",
+	"UserMenu":"false",
+	"UserPanel":"false",
+	"Permiso":
+	{
+	}
+}
